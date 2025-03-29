@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Tarcza z beczki",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/tarcza1.webp",
+        "model": "assets/models/tarcza1.glb",
+        "category": "Tarcze",
+        "tier": "T0"
+    }
+]
